@@ -8,4 +8,4 @@ Crio soluções digitais onde a tecnologia serve às pessoas, e não o contrári
 
 - 🎯 **Meu objetivo:** Conceber produtos digitais impulsionados por IA que resolvam problemas reais.
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayromazzi/)
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayromazzi) ou no [Behance](https://www.behance.net/jayrom).
