@@ -2,7 +2,7 @@
 
 Crio soluções digitais onde a tecnologia serve às pessoas, e não o contrário. Com uma jornada diversa em tecnologia, meu foco é criar pontes entre o Design Humano e a Engenharia de Dados.
 
-- 🔭 **No momento estou trabalhando em:** Projetos de sistemas corporativos.
+- 🔭 **No momento estou trabalhando em:** Consultoria estratégica para iniciativas de produtos digitais.
 
 - 🌱 **Estudando:** IA, Python, Machine Learning, Modelos Preditivos, IoT
 
