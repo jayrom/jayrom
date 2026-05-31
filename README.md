@@ -4,7 +4,7 @@ Crio soluções digitais onde a tecnologia serve às pessoas, e não o contrári
 
 - 🔭 **No momento estou trabalhando em:** Consultoria estratégica para iniciativas de produtos digitais.
 
-- 🌱 **Estudando:** IA, Python, Machine Learning, Modelos Preditivos, IoT
+- 🌱 **Estudando:** Deep Learning, Pipelines de MLOps, Processamento de Linguagem Natural (NLP) e IoT.
 
 - 🎯 **Meu objetivo:** Conceber produtos digitais impulsionados por IA que resolvam problemas reais.
 
